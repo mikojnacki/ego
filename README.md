@@ -1,5 +1,3 @@
-## ego
-
 ## How to run
 
 Run '$ python3 ego.py' in a directory containing ~/webpage subfolder
