@@ -105,7 +105,7 @@ def run_server():
     def static_proxy(path):
         return app.send_static_file(path)
 
-    print('\nGo to http://127.0.0.1:8000/ego.html to see the example\n')
+    print('\nGraf ego wybranej osoby:  http://127.0.0.1:8000/ego.html \n')
     app.run(port=8000)
 
 
